@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo
+END
+ValloTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/ValloTest.java
+END
+EmailRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/EmailRuleTest.java
+END
+NumberRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/NumberRuleTest.java
+END
+RuleParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/RuleParserTest.java
+END
+PostalCodeRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/PostalCodeRuleTest.java
+END
+UrlRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/UrlRuleTest.java
+END
+SsnRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/SsnRuleTest.java
+END
+LuhnRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/LuhnRuleTest.java
+END
+StringRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/StringRuleTest.java
+END
+RuleFactoryTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/RuleFactoryTest.java
+END
+PhoneRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/PhoneRuleTest.java
+END
+DateRuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/DateRuleTest.java
+END
+CcConstraintParserTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/CcConstraintParserTest.java
+END
+RuleTest.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/RuleTest.java
+END
+FailureTests.java
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/svn/!svn/ver/111/tags/1.0-rc11/src/test/java/org/reassembler/vallo/FailureTests.java
+END

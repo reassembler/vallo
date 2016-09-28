@@ -1,0 +1,125 @@
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo
+END
+StringRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/StringRule.java
+END
+RuleFactory.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/RuleFactory.java
+END
+PhoneRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/PhoneRule.java
+END
+DateRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/DateRule.java
+END
+ValloRunner.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/ValloRunner.java
+END
+CcConstraintParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/CcConstraintParser.java
+END
+Rule.java
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/Rule.java
+END
+LuhnNumberRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/LuhnNumberRule.java
+END
+DefaultRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/DefaultRule.java
+END
+Vallo.java
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/Vallo.java
+END
+Result.java
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/Result.java
+END
+EmailRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/EmailRule.java
+END
+NumberRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/NumberRule.java
+END
+RuleDefinition.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/RuleDefinition.java
+END
+RuleParser.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/RuleParser.java
+END
+PostalCodeRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/PostalCodeRule.java
+END
+Failure.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/Failure.java
+END
+UrlRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/UrlRule.java
+END
+SsnRule.java
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/SsnRule.java
+END
+RuleFacade.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/!svn/ver/111/tags/1.0-rc11/src/main/java/org/reassembler/vallo/RuleFacade.java
+END
